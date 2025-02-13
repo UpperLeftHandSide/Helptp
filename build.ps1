@@ -1,0 +1,2 @@
+cd Helptp
+dotnet pack
